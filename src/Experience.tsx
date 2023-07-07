@@ -18,7 +18,7 @@ const Experience = () => {
           </primitive>
         </Float>
       </PresentationControls>
-      <Text font={'/public/NotoSansJP-VariableFont_wght.ttf'} fontSize={0.25} position={[2.5, 0.75, 0.75]} rotation-y={-1.25} color={'#1e90ff'} maxWidth={ 1 }>
+      <Text font={'/NotoSansJP-VariableFont_wght.ttf'} fontSize={0.25} position={[2.5, 0.75, 0.75]} rotation-y={-1.25} color={'#1e90ff'} maxWidth={ 1 }>
         ハリウッドドリームザライドの
         待合室にいこう（ドンキーコング勢）
       </Text>
